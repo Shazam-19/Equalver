@@ -23,7 +23,7 @@ Equalver uses a number of open source language and it's libraries to work proper
 - [Sympy 1.10.1] - Symbolic mathematics are easier with this masterpiece.
 - [Tkinter 8.6] - Python's de-facto standard GUI.
 - [Matplotlib 3.5.1] - A cross-platform, data visualization and graphical plotting.
-- [CSV0.0.13] - CSV (Comma Separated Values) format, is a type of files to import and export spreadsheets and databases.
+- [CSV 0.0.13] - CSV (Comma Separated Values) format, is a type of files to import and export spreadsheets and databases.
 - [Pillow (PIL) 9.0.1] - Add image processing capabilities to the program.
 
 And of course Equalver itself is open source with a [public repository][dill] on GitHub.

@@ -36,6 +36,19 @@ Make a fork of the repositry and play with it
 as you want, once you are done; let me know to add your work 
 to the main project!
 
+## Features to be added in the future
+1. Dark/White theme
+2. Calculate:
+   - Gauss Elimination
+   - Gauss Elimination with partial pivoting
+   - LU Decomposition
+   - LU Decomposition with Partial Pivoting
+   - Cramer's Rule
+   - Gauss-Jordan
+   - Gauss-Jordan with Partial Pivoting
+   - Golden-Section for maximum/minimum
+   - Gradiant and find wether the function has a local maximum/minimum or a saddle point
+
 ## License
 
 MIT License

@@ -1,5 +1,5 @@
 # Equalver
-**Important** This project doesn't check whether the equation is solvable or not. This is an important feature that should be added as a simple fucking checker
+**Important**: This project doesn't check whether the equation is solvable or not. This is an important feature that should be added as a simple fucking checker
 
 Equalver is an advanced mathematical equations calculator with a friendly user interface 
 and functionality to help the user interact with it easily.
